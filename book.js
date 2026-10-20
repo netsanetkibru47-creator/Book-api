@@ -1,4 +1,4 @@
-const fs = require("fs");
+import fs from "fs";
 
 // ---------- Part 1, steps 1-2: one book ----------
 const book = {
